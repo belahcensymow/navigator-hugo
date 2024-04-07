@@ -59,7 +59,7 @@ button = true
 btnText = "Know More"
 btnURL = "https://themefisher.com/"
 videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
+videoURL = "https://www.youtube.com/embed/dQw4w9WgXcQ"
 
 # About 2 Section
 [Languages.fr.params.aboutSm]
@@ -80,9 +80,8 @@ enable = true
 topTitle = "DROP US A NOTE"
 title = "FRANCAIS Contact Us."
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone = "(03) 9283 2617"
-fax = "+61 3827 3590"
+address = "Earth Nigga <br> Karia™  , Morocco"
+phone = "(06) 8966 4960"
 facebook = "https://www.facebook.com/"
 twitter = "https://twitter.com/"
 linkedin = "https://www.linkedin.com/"
@@ -131,7 +130,7 @@ button = true
 btnText = "Know More"
 btnURL = "https://themefisher.com/"
 videoThumb = "images/slider/video-player-thumb.jpg"
-videoURL = "https://www.youtube.com/embed/g3-VxLQO7do"
+videoURL = "https://www.youtube.com/embed/dQw4w9WgXcQ"
 
 # About 2 Section
 [Languages.en.params.aboutSm]
@@ -152,9 +151,8 @@ enable = true
 topTitle = "DROP US A NOTE"
 title = "Contact Us."
 subtitle = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reiciendis quasi itaque, obcaecati atque sit!"
-address = "14/05, Stockhome <br> Victori Palace , United States"
-phone = "(03) 9283 2617"
-fax = "+61 3827 3590"
+address = "Earth Nigga <br> Karia™  , Morocco"
+phone = "(06) 8966 4960"
 facebook = "https://www.facebook.com/"
 twitter = "https://twitter.com/"
 linkedin = "https://www.linkedin.com/"

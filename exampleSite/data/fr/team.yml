@@ -5,7 +5,7 @@ subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illum reicie
 
 member  :
   - image         : images/team/member-1.jpg
-    name          : FRANCAIS Shawshank Redemption
+    name          : Safe
     designation   : Head Of Marketing
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -15,7 +15,7 @@ member  :
     dribbbleURL   : https://dribbble.com/
 
   - image         : images/team/member-2.jpg
-    name          : Leo Departure
+    name          : Duck
     designation   : Web Developer
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -25,7 +25,7 @@ member  :
     dribbbleURL   : https://dribbble.com/
 
   - image         : images/team/member-3.jpg
-    name          : Remoni Rio
+    name          : Mr. Fly
     designation   : Senior Developer
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
@@ -35,7 +35,7 @@ member  :
     dribbbleURL   : https://dribbble.com/
 
   - image         : images/team/member-4.jpg
-    name          : Lawandeski Roma
+    name          : Frens
     designation   : Designer
     description   : >
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
